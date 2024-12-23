@@ -1,7 +1,9 @@
-import React from "react";
+import React from 'react'
 
-const Nopage = () => {
-  return <div>Nopage 404</div>;
-};
+const NoPage = () => {
+  return (
+    <div>NoPage 404</div>
+  )
+}
 
-export default Nopage;
+export default NoPage
